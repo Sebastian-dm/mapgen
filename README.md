@@ -1,0 +1,2 @@
+# mapgen
+RPG map generator
