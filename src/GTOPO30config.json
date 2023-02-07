@@ -1,0 +1,177 @@
+{
+    "path": {
+        "a10g": "C:/Users/sdme/git/mapgen/res/GTOPO30/all10/a10g"
+    }
+    "Tiles": {
+        "A": {
+            "LatMin": 50,
+            "LatMax": 90,
+            "LonMin": -180,
+            "LonMax": -90,
+            "EleMin": 1,
+            "EleMax": 6098,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "B": {
+            "LatMin": 50,
+            "LatMax": 90,
+            "LonMin": 90,
+            "LonMax": 0,
+            "EleMin": 1,
+            "EleMax": 3940,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "C": {
+            "LatMin": 50,
+            "LatMax": 90,
+            "LonMin": 0,
+            "LonMax": 90,
+            "EleMin": -30,
+            "EleMax": 4010,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "D": {
+            "LatMin": 50,
+            "LatMax": 90,
+            "LonMin": 90,
+            "LonMax": 180,
+            "EleMin": 1,
+            "EleMax": 4588,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "E": {
+            "LatMin": 0,
+            "LatMax": 50,
+            "LonMin": -180,
+            "LonMax": -90,
+            "EleMin": -84,
+            "EleMax": 5443,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "F": {
+            "LatMin": 0,
+            "LatMax": 50,
+            "LonMin": -90,
+            "LonMax": 0,
+            "EleMin": -40,
+            "EleMax": 6085,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "G": {
+            "LatMin": 0,
+            "LatMax": 50,
+            "LonMin": 0,
+            "LonMax": 90,
+            "EleMin": -407,
+            "EleMax": 8752,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "H": {
+            "LatMin": 0,
+            "LatMax": 50,
+            "LonMin": 90,
+            "LonMax": 180,
+            "EleMin": -63,
+            "EleMax": 7491,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "I": {
+            "LatMin": -50,
+            "LatMax": 0,
+            "LonMin": -180,
+            "LonMax": -90,
+            "EleMin": 1,
+            "EleMax": 2732,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "J": {
+            "LatMin": -50,
+            "LatMax": 0,
+            "LonMin": -90,
+            "LonMax": 0,
+            "EleMin": -127,
+            "EleMax": 6798,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "K": {
+            "LatMin": -50,
+            "LatMax": 0,
+            "LonMin": 0,
+            "LonMax": 90,
+            "EleMin": 1,
+            "EleMax": 5825,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "L": {
+            "LatMin": -50,
+            "LatMax": 0,
+            "LonMin": 90,
+            "LonMax": 180,
+            "EleMin": 1,
+            "EleMax": 5179,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "L": {
+            "LatMin": -50,
+            "LatMax": 0,
+            "LonMin": 90,
+            "LonMax": 180,
+            "EleMin": -34,
+            "EleMax": 5179,
+            "NoCol": 10800,
+            "NoRow": 6000
+        },
+        "M": {
+            "LatMin": -90,
+            "LatMax": -50,
+            "LonMin": -180,
+            "LonMax": -90,
+            "EleMin": 1,
+            "EleMax": 4009,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "N": {
+            "LatMin": -90,
+            "LatMax": -50,
+            "LonMin": -90,
+            "LonMax": 0,
+            "EleMin": 1,
+            "EleMax": 4743,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "O": {
+            "LatMin": -90,
+            "LatMax": -50,
+            "LonMin": 0,
+            "LonMax": 90,
+            "EleMin": 1,
+            "EleMax": 4039,
+            "NoCol": 10800,
+            "NoRow": 4800
+        },
+        "P": {
+            "LatMin": -90,
+            "LatMax": -50,
+            "LonMin": 90,
+            "LonMax": 180,
+            "EleMin": 1,
+            "EleMax": 4363,
+            "NoCol": 10800,
+            "NoRow": 4800
+        }
+    }
+}
