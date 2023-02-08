@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace mapgen {
+﻿namespace mapgen {
     internal class Coordinates {
 
         //lat 55.777344, lon 12.264762
