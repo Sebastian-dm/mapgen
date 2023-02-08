@@ -1,5 +1,3 @@
-using mapgen;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace mapGenTest {
 
@@ -16,8 +14,8 @@ namespace mapGenTest {
 
         [TestMethod]
         public void TileNameTest() {
-            Assert.AreEqual("A", ElevationModelGTOPO30.GetTileName(67.0, -126.0));
-            Assert.AreEqual("P", ElevationModelGTOPO30.GetTileName(-67.0, 126.0));
+            Assert.AreEqual("a10g", ElevationModelGTOPO30.GetTileName(67.0, -126.0));
+            Assert.AreEqual("p10g", ElevationModelGTOPO30.GetTileName(-67.0, 126.0));
         }
     }
 }
